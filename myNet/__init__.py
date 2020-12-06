@@ -1,0 +1,2 @@
+from .BriefNet import BriefNet
+
